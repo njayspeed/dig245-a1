@@ -1,4 +1,5 @@
 # critical-web-design template
+## Nyjay Nelson
 
 A skeleton for class projects
 
